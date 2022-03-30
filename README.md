@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋, よろしく, I'm Qmo 
+> Qmoですが
+ 
+> Frontend Developer
+
+> Tennis Player
+
+<!--
+## 📫 How to reach me:
+Phone: 0978270923
+
+Email: qhairmonster@gmail.com
+-->
+
+## ✨ Experience
+WIP...
 
 <!--
 **QmoGamer/QmoGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
